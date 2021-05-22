@@ -1,4 +1,10 @@
-Flask
-request
-numpy
-torch
+# api
+flask>=1.1.1,<1.2.0
+
+# schema validation
+marshmallow==2.17.0
+
+# Install from gemfury
+
+# Deployment
+gunicorn==19.9.0
