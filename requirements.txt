@@ -7,3 +7,4 @@ gunicorn
 seaborn
 torch
 transformers==3.5.0
+sentencepiece
