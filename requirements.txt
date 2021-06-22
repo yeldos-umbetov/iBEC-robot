@@ -5,5 +5,5 @@ flask
 matplotlib
 gunicorn
 seaborn
-torch==1.4.0
+torch
 transformers==3.5.0
